@@ -3,6 +3,8 @@
 A list of all named GANs
 - https://github.com/hwalsuklee/tensorflow-generative-model-collections
 Collection of generative models in Tensorflow 
+- https://github.com/eriklindernoren/Keras-GAN
+Keras implementations of Generative Adversarial Networks. 
 
 ## DCGAN
 - https://github.com/jacobgil/keras-dcgan
