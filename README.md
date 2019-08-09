@@ -24,3 +24,9 @@ Code for reproducing experiments in "Improved Training of Wasserstein GANs"
 ## BEGAN
 - https://github.com/carpedm20/BEGAN-tensorflow
 Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks" 
+
+# Image traslation
+- https://github.com/taki0112/UGATIT
+Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
+- https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+Image-to-Image Translation in PyTorch with cyclegan
